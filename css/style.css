@@ -321,7 +321,7 @@ footer {
 }
 }
 @media(max-width : 600px) { .footer-logo img {
-    width: 6rem;
+    width: 5rem;
 }
 }
 @media(max-width : 880px) { .footer-text a {
